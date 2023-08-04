@@ -130,6 +130,7 @@ To continue, replace <server_private_key> with the private key you generated ear
 -------------------------------------------------------------
 
 **Step 4: Start the WireGuard Service**
+
 Once the configuration is complete, we can start the WireGuard service:
 
 ```
