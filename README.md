@@ -1,6 +1,7 @@
 # Setting up a VPN with Wireguard Server on AWS EC2.
 
 ## dev.to
+- [Link](https://dev.to/gabrieltetzner/setting-up-a-vpn-with-wireguard-server-on-aws-ec2-4a49)
 
 -------------------------------------------------------------
 
